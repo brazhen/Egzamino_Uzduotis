@@ -36,6 +36,7 @@ Programa gali būti naudojama keliais būdais, priklausomai nuo to, kaip norite 
 1. Rankinis teksto įvedimas: paleidus programą, pasirinkite duomenų įvedimo būdą ir įveskite norimą tekstą.
 2. Teksto skaitymas iš failo: tekstas gali būti nuskaitomas iš iš anksto paruošto tekstinio failo.
 3. Pasirinkite kokią užduotį norite atlikti (1. Rasti pasikartojančius žodžius. 2. Istraukti URL. 3. ABI)
+4. Programą galite išbandyti su mano paruoštu testfile.txt failu
 
 ## Rezultatų išvedimas
 
